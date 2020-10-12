@@ -1,0 +1,2 @@
+[1011/183444.037:ERROR:settings.cc(430)] Settings version is not 5
+[1011/183444.903:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\glbor\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\35bcc48c-e5f9-42a2-9916-ebc4fc727379: The system cannot find the path specified. (0x3)
